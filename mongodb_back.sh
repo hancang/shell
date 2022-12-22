@@ -1,8 +1,8 @@
 #/bin/bash
 
 
-user_name=root
-password=X9EGrK_@ukzoz@BjKRzKGWng
+user_name=
+password=
 daytime=`date +%Y%m%d`
 backup_dir='/data/mongodb_backup'
 export AWS_ACCESS_KEY_ID=""
