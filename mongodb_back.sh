@@ -1,6 +1,5 @@
 #/bin/bash
 
-#mongodb-uri='mongodb://10.60.53.134:26016,10.60.54.250:26016,10.60.55.131:26016/realtag?replicaSet=data-eyes'
 
 user_name=root
 password=X9EGrK_@ukzoz@BjKRzKGWng
